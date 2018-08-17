@@ -7,7 +7,8 @@ package hola;
 
 /**
  *
- * @author Yoss
+ * @0a
+ * author Yoss
  */
 public class Hola {
 
@@ -16,7 +17,7 @@ public class Hola {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(" Hola Chicas    ");
+        System.out.println(" Hola Chicas  <3  ");
         operaciones opera=new operaciones();
         opera.suma();
     }
