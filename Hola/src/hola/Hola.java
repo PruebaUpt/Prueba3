@@ -18,8 +18,10 @@ public class Hola {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println(" Hola Chicas  <3  ");
-        operaciones opera=new operaciones();
+        suma opera=new suma();
         opera.suma();
+        resta res=new resta();
+        res.res();
     }
     
 }
