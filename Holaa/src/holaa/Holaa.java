@@ -18,6 +18,7 @@ public class Holaa {
         // TODO code application logic here
         System.out.println(" Hola");
         System.out.println(" adios");
+        System.out.println(" Hola");
     }
     
 }
